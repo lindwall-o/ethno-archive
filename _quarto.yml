@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "EMCA Archive"
+  title: "Ethno Archive"
   navbar:
     left:
       - href: index.qmd
