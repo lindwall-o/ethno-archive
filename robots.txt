@@ -1,1 +1,1 @@
-Sitemap: https://lindwall-o.github.io/ethno-archive/sitemap.xml
+Sitemap: https://ethno-archive.org/sitemap.xml
