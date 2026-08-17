@@ -4,8 +4,6 @@ Ethno Archive is a collection of materials related to **ethnomethodology, conver
 
 The archive brings together lectures, seminars, transcripts, working documents, and other resources that may otherwise be difficult to locate or access.
 
-The site is intended as a resource for researchers, students, and others interested in ethnomethodological studies of social interaction, practical reasoning, language, and social organization.
-
 ## Collections
 
 ### [Jeff Coulter](coulter.qmd)
