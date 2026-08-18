@@ -2,9 +2,9 @@
 title: "About"
 ---
 
-Ethno Archive is an independent academic resource for materials related to ethnomethodology, conversation analysis, and related approaches to the study of social action.
+Ethno Archive is an independent academic resource for materials related to ethnomethodology, conversation analysis, and related approaches.
 
-The site collects and makes accessible lectures, seminar transcripts, working documents, bibliographic resources, and other materials that may be difficult to locate elsewhere.
+The aim of the site is to collect and make accessible lectures, seminar transcripts, working documents, bibliographic resources, and other materials that may be difficult to locate elsewhere.
 
 Ethno Archive is not an official repository of any university, association, research group, or individual scholar. Materials are presented with information about their source and provenance whenever this is available.
 
